@@ -20,3 +20,9 @@ In conclusion, Lucid Chess is the result of a dedicated team's passion for chess
 
 # Target
 Implementing a crypto wallet in an existing Lucid game can provide players with a seamless and secure way to manage their in-game assets and participate in the growing world of blockchain gaming. By integrating a crypto wallet, players can securely store, trade, and transfer their digital assets within the game environment.
+
+# Donate
+
+ERC20 - 0x1bf0ea25ae9474917a644bb6f3964426cff27df1
+TRC20 - TTKSBcFzC5NJ97nkiZYYtGVwh6ugACnDGW
+Paypal - valentynnikolaiev0@gmail.com
